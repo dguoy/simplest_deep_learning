@@ -14,3 +14,4 @@
 
 ### Reinforcement Learning
 1. [Policy Gradient](https://github.com/dguoy/simplest_deep_learning/blob/master/RL/policy_gradient.ipynb)
+2. [Deep Q-Learning](https://github.com/dguoy/simplest_deep_learning/blob/master/RL/deep_q_network.ipynb)
