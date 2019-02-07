@@ -11,6 +11,8 @@
 2. [Wasserstein GAN](https://github.com/dguoy/simplest_deep_learning/blob/master/GAN/wgan.ipynb)
 3. [Spectral Normalization GAN](https://github.com/dguoy/simplest_deep_learning/blob/master/GAN/sngan.ipynb)
 4. [Spectral Normalization GAN (TTUR)](https://github.com/dguoy/simplest_deep_learning/blob/master/GAN/sngan_ttur.ipynb)
+5. [Conditional GAN](https://github.com/dguoy/simplest_deep_learning/blob/master/GAN/cgan.ipynb)
+6. [Cycle GAN](https://github.com/dguoy/simplest_deep_learning/blob/master/GAN/cycle_gan.ipynb)
 
 ### Reinforcement Learning
 1. [Policy Gradient](https://github.com/dguoy/simplest_deep_learning/blob/master/RL/policy_gradient.ipynb)
