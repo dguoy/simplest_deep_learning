@@ -20,3 +20,4 @@
 2. [Deep Q-Learning](https://github.com/dguoy/simplest_deep_learning/blob/master/RL/deep_q_network.ipynb)
 3. [Advantage Actor Critic](https://github.com/dguoy/simplest_deep_learning/blob/master/RL/A2C.ipynb)
 4. [Deep Deterministic Policy Gradient](https://github.com/dguoy/simplest_deep_learning/blob/master/RL/DDPG.ipynb)
+5. [Proximal Policy Optimization](https://github.com/dguoy/simplest_deep_learning/blob/master/RL/PPO.ipynb)
