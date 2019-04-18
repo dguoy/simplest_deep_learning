@@ -14,6 +14,7 @@
 5. [Conditional GAN](https://github.com/dguoy/simplest_deep_learning/blob/master/GAN/cgan.ipynb)
 6. [Cycle GAN](https://github.com/dguoy/simplest_deep_learning/blob/master/GAN/cycle_gan.ipynb)
 7. [Gumbel GAN](https://github.com/dguoy/simplest_deep_learning/blob/master/GAN/gumbel_gan.ipynb)
+8. [Info GAN](https://github.com/dguoy/simplest_deep_learning/blob/master/GAN/info_gan.ipynb)
 
 ### Reinforcement Learning
 1. [Policy Gradient](https://github.com/dguoy/simplest_deep_learning/blob/master/RL/policy_gradient.ipynb)
