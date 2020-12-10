@@ -23,3 +23,7 @@
 3. [Advantage Actor Critic](https://github.com/dguoy/simplest_deep_learning/blob/master/RL/A2C.ipynb)
 4. [Deep Deterministic Policy Gradient](https://github.com/dguoy/simplest_deep_learning/blob/master/RL/DDPG.ipynb)
 5. [Proximal Policy Optimization](https://github.com/dguoy/simplest_deep_learning/blob/master/RL/PPO.ipynb)
+
+### Transformer
+1. [Transformer tensorflow version](https://github.com/dguoy/simplest_deep_learning/blob/master/transformer/transformer_tf.ipynb)
+2. [Transformer pytorch version](https://github.com/dguoy/simplest_deep_learning/blob/master/transformer/transformer_torch.ipynb)
