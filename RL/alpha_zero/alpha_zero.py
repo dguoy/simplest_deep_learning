@@ -115,7 +115,7 @@ def backpropagate(search_path, value):
 
 def add_exploration_noise(config, node):
     actions = node.children.keys()
-    noise = np.random.gamma(config.root_dirichlet_alpha, 1, len(actions))
+    noise = np.random.dirichlet(config.root_dirichlet_alpha * np.ones(len(actions)))
     frac = config.root_exploration_fraction
     for a, n in zip(actions, noise):
         node.children[a].prior = node.children[a].prior * (1 - frac) + n * frac
